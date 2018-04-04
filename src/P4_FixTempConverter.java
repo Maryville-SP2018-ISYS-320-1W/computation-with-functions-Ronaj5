@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /*
 	ISYS 320
 	Name(s):
@@ -5,7 +7,7 @@
 */
 
 /*
- What were the errors you found?
+ What were the errors you found? I could not get it....
  
  
  */
